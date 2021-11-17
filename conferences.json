@@ -1,0 +1,486 @@
+[
+  {
+    "abbreviation": "WACV",
+    "name": "Winter Conference on Applications of Computer Vision",
+    "description": "WACV is the premier international computer vision event comprising the main conference and several co-located workshops and tutorials.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/WACV.png",
+    "website": "https://wacv2022.thecvf.com/",
+    "deadline": "2021-06-10 06:59",
+    "date": "January 04-08, 2022",
+    "place": "Waikoloa, USA",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2017": {
+        "long": {
+          "accepted": 144,
+          "total": 320
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 222,
+          "total": 484
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 230,
+          "total": 589
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 379,
+          "total": 1098
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "CVPR",
+    "name": "Conference on Computer Vision and Pattern Recognition",
+    "description": "CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638599906/conferences/CVPR.png",
+    "website": "https://cvpr2022.thecvf.com",
+    "deadline": "2021-11-10 07:59:00",
+    "date": "June 19-24, 2022",
+    "place": "New Orleans, USA",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 540,
+          "total": 1807
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 602,
+          "total": 2123
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 643,
+          "total": 2145
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 783,
+          "total": 2620
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 979,
+          "total": 3303
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 1294,
+          "total": 5160
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 1470,
+          "total": 6656
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 1663,
+          "total": 7015
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICVS",
+    "name": "International Colour Vision Society",
+    "description": "The International Colour Vision Society (ICVS) is an international group of physiologists, psychologists, physicists, geneticists, optometrists, ophthalmologists and visual scientists who have a research interest in the many aspects of colour vision and colour vision deficiencies.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638599605/conferences/ICVS.png",
+    "website": "https://www.icvs2022.org",
+    "deadline": "2022-03-15 11:59:00",
+    "date": "July 01-05, 2022",
+    "place": "Heraklion, GRC",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "BMVC",
+    "name": "The British Machine Vision Conference",
+    "description": "The BMVA provides a national forum for individuals and organisations involved in machine vision, image processing, and pattern recognition in the United Kingdom.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/BMVC.png",
+    "website": "https://www.bmvc2021.com",
+    "deadline": "2021-06-25 23:59:00",
+    "date": "November 22-25, 2021",
+    "place": "Virtual",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 131,
+          "total": 431
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 186,
+          "total": 553
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 144,
+          "total": 365
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 188,
+          "total": 635
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 255,
+          "total": 862
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 231,
+          "total": 815
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 196,
+          "total": 800
+        }
+      }
+    }
+  },
+  {
+    "name": "International Conference on Machine Learning",
+    "description": "The International Conference on Machine Learning is the leading international academic conference in machine learning. Along with NeurIPS and ICLR, it is one of the three primary conferences of high impact in machine learning and artificial intelligence research.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ICML.png",
+    "abbreviation": "ICML",
+    "website": "https://icml.cc",
+    "deadline": "2021-01-21 11:59:00",
+    "date": "July 17-23, 2022",
+    "place": "Baltimore, USA",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "icmlconf"
+    },
+    "acceptanceRates": {
+      "2015": {
+        "long": {
+          "accepted": 270,
+          "total": 1037
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 322,
+          "total": 1300
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 434,
+          "total": 1676
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 621,
+          "total": 2473
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 773,
+          "total": 3424
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 1088,
+          "total": 4990
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 1184,
+          "total": 5513
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "MM",
+    "name": "ACM Multimedia",
+    "description": "ACM Multimedia has been the worldwide premier conference and a key world event to display scientific achievements and innovative industrial products in the multimedia field.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/MM.png",
+    "website": "https://2022.acmmm.org",
+    "deadline": "2022-02-17 23:59:00",
+    "date": "October 10-14, 2022",
+    "place": "Lisbon, PRT",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2018": {
+        "long": {
+          "accepted": 208,
+          "total": 757
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 248,
+          "total": 936
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 472,
+          "total": 1698
+        }
+      }
+    }
+  },
+  {
+    "name": "Conference on Neural Information Processing Systems",
+    "description": "The purpose of the Neural Information Processing Systems annual meeting is to foster the exchange of research on neural information processing systems in their biological, technological, mathematical, and theoretical aspects.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/NeurIPS.png",
+    "abbreviation": "NeurIPS",
+    "website": "https://nips.cc",
+    "deadline": "2021-05-28 21:00:00",
+    "date": "November 26 - December 04, 2022",
+    "place": "New Orleans, USA",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "NeurIPSConf"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 414,
+          "total": 1678
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 403,
+          "total": 1838
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 569,
+          "total": 2403
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 678,
+          "total": 3240
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 1011,
+          "total": 4856
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 1428,
+          "total": 6743
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 1900,
+          "total": 9454
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 2371,
+          "total": 9122
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "IJCAI-ECAI",
+    "name": "International Joint Conferences on Artificial Intelligence Organization",
+    "description": "Welcome to IJCAI-ECAI 2022, the 31st International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence, the premier international gathering of researchers in AI!",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638601564/conferences/IJCAI-ECAI.png",
+    "website": "https://ijcai-22.org",
+    "deadline": "2022-01-07 23:59:00",
+    "date": "July 23-29, 2022",
+    "place": "Vienna, AUT",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "IJCAIconf"
+    },
+    "acceptanceRates": {
+      "2013": {
+        "long": {
+          "accepted": 413,
+          "total": 1473
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 572,
+          "total": 1996
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 551,
+          "total": 2294
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 660,
+          "total": 2540
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 710,
+          "total": 3470
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 850,
+          "total": 4752
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 592,
+          "total": 4717
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 587,
+          "total": 4204
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "VISAPP",
+    "name": "International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+    "description": "The International Conference on Computer Vision Theory and Applications aims at becoming a major point of contact between researchers, engineers and practitioners on the area of computer vision application systems. Five simultaneous tracks will be held, covering all different aspects related to computer vision: Image Formation and Preprocessing; Image and Video Analysis and Understanding; Motion, Tracking and Stereo Vision; and Applications and Services.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638602273/conferences/VISAPP.png",
+    "website": "https://visapp.scitevents.org",
+    "deadline": "2021-10-07 11:59:00",
+    "date": "February 06-08, 2022",
+    "place": "Virtual",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "visappconf"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "SIGGRAPH",
+    "name": "Association for Computing Machinery's Special Interest Group on Computer Graphics and Interactive Techniques",
+    "description": "ACM SIGGRAPH is a thriving international organization. Everybody who shares ACM SIGGRAPH’s love for computer graphics and interactive techniques is warmly invited to join ACM SIGGRAPH and attend SIGGRAPH or SIGGRAPH Asia.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638602491/conferences/SIGGRAPH.jpg",
+    "website": "https://s2022.siggraph.org",
+    "deadline": "2022-01-27 22:00:00",
+    "date": "August 07-11, 2022",
+    "place": "Vancouver, CAN",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "siggraph"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 127,
+          "total": 505
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 118,
+          "total": 462
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 119,
+          "total": 467
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 126,
+          "total": 439
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 128,
+          "total": 464
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 111,
+          "total": 385
+        }
+      }
+    }
+  }
+]
