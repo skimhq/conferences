@@ -1733,9 +1733,12 @@
     "description": "ACCV is a leading biennial international conference mainly sponsored by Asian Federation of Computer Vision. This highly successful series provides a premier forum for researchers, developers, and practitioners to present and discuss new problems, solutions, and technologies in computer vision and related areas.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ACCV.png",
     "website": "http://accv2020.kyoto/",
-    "deadline": "2020-07-08 23:59:00",
+    "deadline": "2020-07-08 23:59:59",
     "date": "November 30 - December 04, 2020",
     "place": "Virtual",
+    "areas": [
+      "Computer Vision"
+    ],
     "social": {
       "twitter": "accv2020"
     },
@@ -1984,7 +1987,7 @@
     "description": "The SDM conference provides a venue for researchers who are addressing these problems to present their work in a peer-reviewed forum.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/SDM.png",
     "website": "https://www.siam.org/conferences/cm/conference/sdm22",
-    "deadline": "2021-10-13 07:59:00",
+    "deadline": "2021-10-13 07:59:59",
     "date": "April 28 - 30, 2022",
     "place": "Alexandria, USA and Virtual",
     "areas": [
@@ -2571,7 +2574,7 @@
     "description": "The Conference on Robot Learning (CoRL) is an annual international conference focusing on the intersection of robotics and machine learning.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/CoRL.png",
     "website": "http://corl2022.org",
-    "deadline": "2022-06-18 23:59:00",
+    "deadline": "2022-06-18 23:59:59",
     "date": "December 15-18, 2022",
     "place": "Auckland, NZ",
     "areas": [
@@ -2727,6 +2730,386 @@
         "long": {
           "accepted": 38,
           "total": 128
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "SIGMOD",
+    "name": "ACM SIGMOD/PODS International Conference on Management of Data",
+    "description": "The annual ACM SIGMOD conference is a leading international forum for data management researchers, practitioners, developers, and users to explore cutting-edge ideas and results, and to exchange techniques, tools, and experiences.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639579680/conferences/SIGMOD.jpg",
+    "website": "https://2022.sigmod.org",
+    "deadline": "2021-09-15 23:59:59",
+    "date": "June 12-17, 2022",
+    "place": "Philadelphia, USA",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "2022sigmod"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 107,
+          "total": 421
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 106,
+          "total": 415
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 90,
+          "total": 461
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 88,
+          "total": 430
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 123,
+          "total": 458
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 188,
+          "total": 450
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICDE",
+    "name": "IEEE International Conference on Data Engineering",
+    "description": "The annual IEEE International Conference on Data Engineering (ICDE) is the flagship IEEE conference addressing research issues in designing, building, managing, and evaluating advanced data-intensive systems and applications.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639580107/conferences/ICDE.png",
+    "website": "https://icde2022.ieeecomputer.my",
+    "deadline": "2021-07-22 07:59:59",
+    "date": "May 09-12, 2022",
+    "place": "Kuala Lumpur, MYS and Virtual",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "icdeconf"
+    },
+    "acceptanceRates": {
+      "2017": {
+        "long": {
+          "accepted": 63,
+          "total": 356
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 100,
+          "total": 424
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 126,
+          "total": 470
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 129,
+          "total": 568
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "FG",
+    "name": "International Conference on Automatic Face and Gesture Recognition",
+    "description": "The IEEE conference series on Automatic Face and Gesture Recognition is the premier international forum for research in image and video-based face, gesture, and body movement recognition. Its broad scope includes advances in fundamental computer vision, pattern recognition, computer graphics, and machine learning techniques relevant to face, gesture, and body action, new algorithms, and analysis of specific applications.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639580603/conferences/FG.png",
+    "website": "http://iab-rubric.org/fg2021/",
+    "deadline": "2021-04-15 23:59:59",
+    "date": "December 15-18, 2021",
+    "place": "Jodhpur, IND and Virtual",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "ieeefg2021"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "ISIT",
+    "name": "IEEE International Symposium on Information Theory",
+    "description": "ISIT is the premier international conference series dedicated to the advancement of information theory and related areas.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639580897/conferences/ISIT.svg",
+    "website": "https://2021.ieee-isit.org",
+    "deadline": "2021-02-03 23:59:59",
+    "date": "July 12-20, 2021",
+    "place": "Melbourne, AUS and Virtual",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "ieee_itsoc"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "IJCNN",
+    "name": "The International Joint Conference on Neural Networks",
+    "description": "IJCNN is the premier international conference in the area of neural networks theory, analysis and applications.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639581190/conferences/IJCNN.png",
+    "website": "https://www.ijcnn.org",
+    "deadline": "2023-01-15 23:59:59",
+    "date": "July 18-22, 2023",
+    "place": "Gold Coast, AUS",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "jointneural"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "LAK",
+    "name": "International Learning Analytics and Knowledge Conference",
+    "description": "LAK is a collaborative effort by learning analytics researchers and practitioners to share the most rigorous cutting-edge work in learning analytics.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639581760/conferences/LAK.jpg",
+    "website": "https://www.solaresearch.org/events/lak/lak22/",
+    "deadline": "2021-10-05 11:59:59",
+    "date": "March 21-25, 2022",
+    "place": "Virtual",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "lak22online"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "ICME",
+    "name": "International Conference on Multimedia and Expo",
+    "description": "The IEEE International Conference on Multimedia & Expo (ICME) has been the flagship multimedia conference sponsored by four IEEE societies since 2000. It aims at promoting exchange of the latest advances in multimedia technologies, systems, and applications from both the research and development perspectives of the circuits and systems, communications, computer, and signal processing communities.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639583493/conferences/ICME.png",
+    "website": "http://2022.ieeeicme.org",
+    "deadline": "2021-12-23 07:59:59",
+    "date": "July 18-22, 2022",
+    "place": "Taipei, TWN",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2018": {
+        "long": {
+          "accepted": 174,
+          "total": 548
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 0,
+          "total": 0
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 0,
+          "total": 0
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 390,
+          "total": 1300
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICAPS",
+    "name": "International Conference on Automated Planning and Scheduling",
+    "description": "The primary objectives of ICAPS are to further the field of automated planning and scheduling through the organization of technical meetings, including the annual ICAPS conference, through the organization of summer schools, tutorials and training activities at various events, through the organization of planning and scheduling competitions, benchmarking and other means of advancing and assessing the state of the art in the field, by promoting the involvement of young scientists in the field through scholarships and other means, and by promoting and disseminating publications, planning and scheduling systems, domains, simulators, software tools and technical material.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ICAPS.png",
+    "website": "http://icaps22.icaps-conference.org",
+    "deadline": "2021-12-15 23:59:59",
+    "date": "June 19-24, 2022",
+    "place": "Singapore Management University, SGP",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "icapsconference"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "CHIL",
+    "name": "ACM Conference on Health, Inference, and Learning",
+    "description": "The ACM Conference on Health, Inference, and Learning (ACM CHIL), targets a cross-disciplinary representation of clinicians and researchers (from industry and academia) in machine learning, health policy, causality, fairness, and other related areas.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/CHIL.png",
+    "website": "https://www.chilconference.org/",
+    "deadline": "2022-01-15 11:59:59",
+    "date": "April 07-08, 2022",
+    "place": "Virtual",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "ISMIR",
+    "name": "International Society for Music Information Retrieval",
+    "description": "The International Society for Music Information Retrieval (ISMIR) is a non-profit organisation which, among other things, oversees the organisation of the ISMIR Conference. The ISMIR conference is held annually and is the world’s leading research forum on processing, searching, organising and accessing music-related data.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ISMIR.png",
+    "website": "https://ismir2021.ismir.net",
+    "deadline": "2021-05-16 11:59:59",
+    "date": "November 07-12, 2021",
+    "place": "Bengaluru, IND",
+    "areas": [
+      "Speech"
+    ],
+    "social": {
+      "twitter": "ismir2021"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "ICCC",
+    "name": "International Conference on Computational Creativity",
+    "description": "The ICCC conference series organized by the Association for Computational Creativity since 2010 is the only scientific conference that focuses on computational creativity alone and also covers all aspects of it.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639584712/conferences/ICCC.jpg",
+    "website": "https://computationalcreativity.net/iccc22/",
+    "deadline": "2022-02-11 23:59:59",
+    "date": "June 27 – July 1, 2022",
+    "place": "Bozen-Bolzano, ITA",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "iccc_conf"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "3DV",
+    "name": "International Conference on 3D Vision",
+    "description": "This event has provided a premier platform for disseminating research results covering a broad variety of topics in the area of 3D research in computer vision and graphics, from novel optical sensors, signal processing, geometric modelling, representation and transmission, to visualization and interaction, and a variety of applications.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639584865/conferences/3DV.jpg",
+    "website": "https://3dv2021.surrey.ac.uk",
+    "deadline": "2021-07-30 23:59:59",
+    "date": "December 01-03, 2021",
+    "place": "Virual",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "3dvconf"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "WMT",
+    "name": "Conference on Machine Translation",
+    "description": "This conference builds on a series of annual workshops and conferences on statistical machine translation.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/WMT.png",
+    "website": "https://www.statmt.org/wmt21/",
+    "deadline": "2021-08-06 11:59:59",
+    "date": "November 10-11, 2021",
+    "place": "Punta Cana, DOM and Virtual",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "AAMAS",
+    "name": "International Conference on Autonomous Agents and Multiagent Systems",
+    "description": "AAMAS (International Conference on Autonomous Agents and Multiagent Systems) is the largest and most influential conference in the area of agents and multiagent systems. The aim of the conference is to bring together researchers and practitioners in all areas of agent technology and to provide a single, high-profile, internationally renowned forum for research in the theory and practice of autonomous agents and multiagent systems. AAMAS is the flagship conference of the non-profit International Foundation for Autonomous Agents and Multiagent Systems (IFAAMAS).",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639585287/conferences/AAMAS.jpg",
+    "website": "https://aamas2022-conference.auckland.ac.nz",
+    "deadline": "2021-10-08 23:59:59",
+    "date": "May 09-13, 2022",
+    "place": "Auckland, NZ",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "aamas2022"
+    },
+    "acceptanceRates": {
+      "2013": {
+        "long": {
+          "accepted": 140,
+          "total": 599
+        }
+      },
+      "2014": {
+        "long": {
+          "accepted": 169,
+          "total": 709
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 108,
+          "total": 670
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 137,
+          "total": 550
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 127,
+          "total": 457
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 149,
+          "total": 607
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 193,
+          "total": 793
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 186,
+          "total": 808
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 152,
+          "total": 612
         }
       }
     }
