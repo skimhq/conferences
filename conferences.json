@@ -540,7 +540,7 @@
       "Computer Vision"
     ],
     "social": {
-      "twitter": ""
+      "twitter": "icmr2022"
     },
     "acceptanceRates": {
       "2015": {
@@ -619,6 +619,12 @@
         "long": {
           "accepted": 1077,
           "total": 4304
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 0,
+          "total": 0
         }
       },
       "2021": {
@@ -2493,5 +2499,200 @@
         }
       }
     }
+  },
+  {
+    "abbreviation": "AKBC",
+    "name": "Automated Knowledge Base Construction",
+    "description": "Most major technology companies now have substantial efforts in knowledge base construction, and related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness. The AKBC conference serves as a research forum for all these areas, in both academia and industry.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/AKBC.png",
+    "website": "https://www.akbc.ws/2021/",
+    "deadline": "2021-06-17 23:59:59",
+    "date": "October 4-8, 2021",
+    "place": "Virtual",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "ICRA",
+    "name": "International Conference on Robotics and Automation",
+    "description": "The IEEE International Conference on Robotics and Automation is an annual academic conference covering advances in robotics.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639574426/conferences/ICRA.jpg",
+    "website": "https://www.icra2022.org",
+    "deadline": "2021-09-15 23:59:59",
+    "date": "May 23-27, 2022",
+    "place": "Philadelphia, USA",
+    "areas": [
+      "Robotics"
+    ],
+    "social": {
+      "twitter": "ieee_ras_icra"
+    },
+    "acceptanceRates": {
+      "2017": {
+        "long": {
+          "accepted": 938,
+          "total": 2289
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 1055,
+          "total": 2598
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 1347,
+          "total": 2903
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 0,
+          "total": 0
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 1946,
+          "total": 4005
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "CoRL",
+    "name": "Conference on Robot Learning",
+    "description": "The Conference on Robot Learning (CoRL) is an annual international conference focusing on the intersection of robotics and machine learning.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/CoRL.png",
+    "website": "http://corl2022.org",
+    "deadline": "2022-06-18 23:59:00",
+    "date": "December 15-18, 2022",
+    "place": "Auckland, NZ",
+    "areas": [
+      "Robotics"
+    ],
+    "social": {
+      "twitter": "corl_conf"
+    },
+    "acceptanceRates": {
+      "2017": {
+        "long": {
+          "accepted": 67,
+          "total": 170
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 75,
+          "total": 237
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 110,
+          "total": 398
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 165,
+          "total": 475
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "HRI",
+    "name": "International Conference on Human-Robot Interaction",
+    "description": "A premier, highly-selective meeting presenting the latest advances in the field of Human-Robot Interaction, with broad participation from a range of disciplines, including robotics, design, engineering, the social sciences and many others.  This year, our theme is Bolder HRI, reflecting recent worldwide events and the need for real-world solutions to meet health and societal challenges.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639574797/conferences/HRI.png",
+    "website": "https://humanrobotinteraction.org/2022/",
+    "deadline": "2021-10-02 11:59:59",
+    "date": "March 7-10, 2022",
+    "place": "Virtual",
+    "areas": [
+      "Robotics"
+    ],
+    "social": {
+      "twitter": "hri_conference"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 32,
+          "total": 132
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 43,
+          "total": 169
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 45,
+          "total": 181
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 51,
+          "total": 211
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 49,
+          "total": 206
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 42,
+          "total": 184
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "IROS",
+    "name": "International Conference on Intelligent Robots and Systems",
+    "description": "IROS, the IEEE/RSJ International Conference on Intelligent Robots and Systems, is an annual academic conference covering advances in robotics.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639575205/conferences/IROS.png",
+    "website": "https://iros2022.org",
+    "deadline": "2022-03-01 23:59:59",
+    "date": "October 23-27, 2022",
+    "place": "Kyoto, JPN",
+    "areas": [
+      "Robotics"
+    ],
+    "social": {
+      "twitter": "2022Iros"
+    },
+    "acceptanceRates": {}
+  },
+  {
+    "abbreviation": "RSS",
+    "name": "Robotics: Science and Systems",
+    "description": "The Robotics: Science and Systems has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, tutorials, and virtual fun!",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639575330/conferences/RSS.png",
+    "website": "https://roboticsconference.org/",
+    "deadline": "2022-01-29 11:59:59",
+    "date": "June 27 – July 01, 2022",
+    "place": "New York, USA",
+    "areas": [
+      "Robotics"
+    ],
+    "social": {
+      "twitter": "roboticsscisys"
+    },
+    "acceptanceRates": {}
   }
 ]
