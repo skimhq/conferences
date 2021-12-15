@@ -12,7 +12,7 @@
       "Computer Vision"
     ],
     "social": {
-      "twitter": ""
+      "twitter": "wacv2021"
     },
     "acceptanceRates": {
       "2017": {
@@ -54,7 +54,7 @@
       "Computer Vision"
     ],
     "social": {
-      "twitter": ""
+      "twitter": "cvprconf"
     },
     "acceptanceRates": {
       "2014": {
@@ -137,7 +137,7 @@
       "Computer Vision"
     ],
     "social": {
-      "twitter": ""
+      "twitter": "bmvcconf"
     },
     "acceptanceRates": {
       "2014": {
@@ -258,7 +258,7 @@
       "Computer Vision"
     ],
     "social": {
-      "twitter": ""
+      "twitter": "sigmm"
     },
     "acceptanceRates": {
       "2018": {
@@ -2142,6 +2142,354 @@
         "long": {
           "accepted": 112,
           "total": 603
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "COLT",
+    "name": "Conference on Learning Theory",
+    "description": "The Association for Computational Learning (ACL) organizes the Conference on Learning Theory (COLT).",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639572158/conferences/COLT.png",
+    "website": "http://learningtheory.org/colt2022/",
+    "date": "July 2–5, 2022",
+    "deadline": "2022-02-09 23:59:59",
+    "place": "London, UK",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "assoccomplearn"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 45,
+          "total": 140
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 62,
+          "total": 178
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 53,
+          "total": 203
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 74,
+          "total": 228
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 91,
+          "total": 335
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 118,
+          "total": 393
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 120,
+          "total": 388
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "UAI",
+    "name": "The Conference on Uncertainty in Artificial Intelligence (UAI)",
+    "description": "The Conference on Uncertainty in Artificial Intelligence (UAI) is one of the premier international conferences on research related to knowledge representation, learning, and reasoning in the presence of uncertainty. UAI is supported by the Association for Uncertainty in Artificial Intelligence (AUAI).",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/UAI.png",
+    "website": "https://www.auai.org/uai2021/",
+    "deadline": "2021-02-20 23:59:59",
+    "date": "July 27-30, 2021",
+    "place": "Virtual",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "uncertaintyinai"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 94,
+          "total": 292
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 99,
+          "total": 291
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 85,
+          "total": 275
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 87,
+          "total": 282
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 104,
+          "total": 337
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 118,
+          "total": 450
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 142,
+          "total": 515
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "AISTATS",
+    "name": "Society for Artificial Intelligence and Statistics",
+    "description": "Since its inception in 1985, AISTATS has been an interdisciplinary gathering of researchers at the intersection of artificial intelligence, machine learning, statistics, and related areas.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/AISTATS.png",
+    "website": "http://aistats.org/aistats2022/",
+    "deadline": "2021-10-15 11:59:59",
+    "date": "March 28-30, 2022",
+    "place": "Virtual",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "aistats_conf"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 120,
+          "total": 335
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 127,
+          "total": 442
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 165,
+          "total": 537
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 168,
+          "total": 530
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 214,
+          "total": 645
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 360,
+          "total": 1111
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 455,
+          "total": 1527
+        }
+      }
+    }
+  },
+  {
+    "name": "Conference on Recommender Systems",
+    "description": "The ACM Conference on Recommender Systems (RecSys) is the premier international forum for the presentation of new research results, systems and techniques in the broad field of recommender systems. RecSys brings together the major international research groups working on recommender systems, along with many of the world’s leading companies active in e-commerce and other adjacent domains.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639573387/conferences/RecSys.png",
+    "abbreviation": "RecSys",
+    "website": "https://recsys.acm.org/recsys22/",
+    "deadline": "2022-06-01 23:59:59",
+    "date": "September 18-23, 2022",
+    "place": "Seattle, USA",
+    "areas": [
+      "Miscellaneous"
+    ],
+    "social": {
+      "twitter": "acmrecsys"
+    },
+    "acceptanceRates": {
+      "2015": {
+        "long": {
+          "accepted": 35,
+          "total": 152
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 29,
+          "total": 159
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 26,
+          "total": 125
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 32,
+          "total": 181
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 36,
+          "total": 189
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 39,
+          "total": 218
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "INTERSPEECH",
+    "name": "InterSpeech",
+    "description": "INTERSPEECH has grown into the world's largest technical conference focused on speech processing and application with over 1000 attendees and over 600 papers. The conferences emphasize interdisciplinary approaches addressing all aspects of speech science and technology, ranging from basic theories to advanced applications.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639573247/conferences/INTERSPEECH.jpg",
+    "website": "http://www.interspeech2022.org",
+    "deadline": "2022-03-21 23:59:59",
+    "date": "September 18-22, 2022",
+    "place": "Incheon, KOR",
+    "areas": [
+      "Speech"
+    ],
+    "social": {
+      "twitter": "interspeech2022"
+    },
+    "acceptanceRates": {
+      "2015": {
+        "long": {
+          "accepted": 743,
+          "total": 1458
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 779,
+          "total": 1541
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 799,
+          "total": 1582
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 749,
+          "total": 1320
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 914,
+          "total": 1855
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 963,
+          "total": 1990
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICASSP",
+    "name": "International Conference on Acoustics, Speech and Signal Processing",
+    "description": "ICASSP, the International Conference on Acoustics, Speech, and Signal Processing, is an annual flagship conference organized of IEEE Signal Processing Society.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639573557/conferences/ICASSP.jpg",
+    "website": "https://2022.ieeeicassp.org",
+    "deadline": "2021-10-06 23:59:59",
+    "date": "May 22-27, 2022",
+    "place": "TSands Expo & Convention Centre, SGP",
+    "areas": [
+      "Speech"
+    ],
+    "social": {
+      "twitter": "ieeeICASSP"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 1709,
+          "total": 3500
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 1207,
+          "total": 2322
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 1265,
+          "total": 2682
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 1220,
+          "total": 2518
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 1406,
+          "total": 2829
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 1774,
+          "total": 3815
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 1734,
+          "total": 3610
         }
       }
     }
