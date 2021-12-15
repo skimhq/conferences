@@ -1,0 +1,19 @@
+name: Import Conferences
+on:
+  push:
+    branches:    
+      - master
+jobs:  
+  runner-job:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Git checkout
+      uses: actions/checkout@v1
+    - name: Start MongoDB v4.2
+      uses: supercharge/mongodb-github-action@1.2.0
+      with:
+        mongodb-version: 4.2
+    - name: Import Conferences
+      env:
+        MONGO_URI: ${{ secrets.MONGO_URI }}
+      run: mongoimport --uri $MONGO_URI --collection conferences --mode=merge --upsertFields abbreviation --type json --file conferences.json --jsonArray
