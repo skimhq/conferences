@@ -2679,7 +2679,56 @@
     "social": {
       "twitter": "2022Iros"
     },
-    "acceptanceRates": {}
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 750,
+          "total": 1600
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 969,
+          "total": 2134
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 825,
+          "total": 1719
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 970,
+          "total": 2164
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 1254,
+          "total": 2700
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 1122,
+          "total": 2494
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 1408,
+          "total": 2996
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 1260,
+          "total": 2801
+        }
+      }
+    }
   },
   {
     "abbreviation": "RSS",
@@ -2696,7 +2745,50 @@
     "social": {
       "twitter": "roboticsscisys"
     },
-    "acceptanceRates": {}
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 57,
+          "total": 178
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 49,
+          "total": 188
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 47,
+          "total": 228
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 75,
+          "total": 189
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 71,
+          "total": 223
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 85,
+          "total": 272
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 103,
+          "total": 321
+        }
+      }
+    }
   },
   {
     "abbreviation": "ALT",
@@ -2896,7 +2988,44 @@
     "social": {
       "twitter": "lak22online"
     },
-    "acceptanceRates": {}
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 13,
+          "total": 44
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 20,
+          "total": 74
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 36,
+          "total": 116
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 36,
+          "total": 114
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 35,
+          "total": 115
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 80,
+          "total": 261
+        }
+      }
+    }
   },
   {
     "abbreviation": "ICME",
