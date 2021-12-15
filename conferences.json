@@ -1775,6 +1775,375 @@
     "social": {
       "twitter": "midl_conference"
     },
-    "acceptanceRates": {}
+    "acceptanceRates": {
+      "2019": {
+        "long": {
+          "accepted": 47,
+          "total": 117
+        },
+        "short": {
+          "accepted": 105,
+          "total": 158
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 65,
+          "total": 148
+        },
+        "short": {
+          "accepted": 41,
+          "total": 106
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 60,
+          "total": 124
+        },
+        "short": {
+          "accepted": 63,
+          "total": 119
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "KDD",
+    "name": "Conference on Knowledge Discovery and Data mining",
+    "description": "The annual ACM SIGKDD Conference is the premier international forum for data mining researchers and practitioners from academia, industry, and government to share ideas, research results and experiences.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639566860/conferences/KDD.png",
+    "website": "https://kdd.org/kdd2022/",
+    "deadline": "2022-02-10 23:59:59",
+    "date": "August 14-18, 2022",
+    "place": "Washington DC, USA",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "kdd_news"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 151,
+          "total": 1063
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 160,
+          "total": 819
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 142,
+          "total": 1115
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 130,
+          "total": 748
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 181,
+          "total": 983
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 170,
+          "total": 1200
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 216,
+          "total": 1279
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 238,
+          "total": 1541
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "CIKM",
+    "name": "International Conference on Information and Knowledge Management",
+    "description": "The Conference on Information and Knowledge Management (CIKM) provides an international forum for presentation and discussion of research on information and knowledge management, as well as recent advances on data and knowledge bases. The purpose of the conference is to identify challenging problems facing the development of future knowledge and information systems, and to shape future directions of research by soliciting and reviewing high quality, applied and theoretical research findings.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/CIKM.png",
+    "website": "https://cikm2021.org/",
+    "deadline": "2021-05-27 11:59:59",
+    "date": "November 01-05, 2021",
+    "place": "Gold Coast, AUS",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "cikm2021"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 175,
+          "total": 838
+        },
+        "short": {
+          "accepted": 57,
+          "total": 260
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 165,
+          "total": 646
+        },
+        "short": {
+          "accepted": 69,
+          "total": 276
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 160,
+          "total": 701
+        },
+        "short": {
+          "accepted": 55,
+          "total": 234
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 171,
+          "total": 855
+        },
+        "short": {
+          "accepted": 119,
+          "total": 419
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 147,
+          "total": 862
+        },
+        "short": {
+          "accepted": 96,
+          "total": 413
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 200,
+          "total": 1030
+        },
+        "short": {
+          "accepted": 100,
+          "total": 470
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 193,
+          "total": 920
+        },
+        "short": {
+          "accepted": 103,
+          "total": 397
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 271,
+          "total": 1251
+        },
+        "short": {
+          "accepted": 177,
+          "total": 626
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "SDM",
+    "name": "SIAM International Conference on Data Mining",
+    "description": "The SDM conference provides a venue for researchers who are addressing these problems to present their work in a peer-reviewed forum.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/SDM.png",
+    "website": "https://www.siam.org/conferences/cm/conference/sdm22",
+    "deadline": "2021-10-13 07:59:00",
+    "date": "April 28 - 30, 2022",
+    "place": "Alexandria, USA and Virtual",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "siamdatamining"
+    },
+    "acceptanceRates": {
+      "2016": {
+        "long": {
+          "accepted": 96,
+          "total": 370
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 93,
+          "total": 358
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 86,
+          "total": 374
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 90,
+          "total": 397
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "WWW",
+    "name": "International World Wide Web Conference",
+    "description": "The Web Conference is a yearly international academic conference on the topic of the future direction of the World Wide Web.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639567904/conferences/WWW.svg",
+    "website": "https://www2022.thewebconf.org",
+    "deadline": "2021-10-22 11:59:59",
+    "date": "April 26-29, 2022",
+    "place": "Lyon, FRA",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "thewebconf"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 84,
+          "total": 645
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 131,
+          "total": 929
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 115,
+          "total": 727
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 164,
+          "total": 966
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 171,
+          "total": 1140
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 225,
+          "total": 1247
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 217,
+          "total": 1129
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 357,
+          "total": 1736
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "WSDM",
+    "name": "International Conference on Web Search and Data Mining",
+    "description": "The Web Conference is a yearly international academic conference on the topic of the future direction of the World Wide Web.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639568690/conferences/WSDM.png",
+    "website": "https://www.wsdm-conference.org/2022",
+    "deadline": "2021-08-14 11:59:59",
+    "date": "February 21-25, 2022",
+    "place": "Phoenix, USA",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "wsdmsocial"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 64,
+          "total": 355
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 39,
+          "total": 238
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 67,
+          "total": 368
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 80,
+          "total": 505
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 84,
+          "total": 514
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 84,
+          "total": 511
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 91,
+          "total": 615
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 112,
+          "total": 603
+        }
+      }
+    }
   }
 ]
