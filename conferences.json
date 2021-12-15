@@ -1563,5 +1563,218 @@
         }
       }
     }
+  },
+  {
+    "abbreviation": "MICCAI",
+    "name": "International Conference on Medical Image Computing & Computer Assisted Intervention",
+    "description": "The annual MICCAI conference attracts world leading biomedical scientists, engineers, and clinicians from a wide range of disciplines associated with medical imaging and computer assisted intervention.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639563922/conferences/MICCAI.png",
+    "website": "https://conferences.miccai.org/2022/en/",
+    "deadline": "2022-02-16 09:59:59",
+    "date": "September 18-22, 2022",
+    "place": "Resorts World Convention Centre, SGP",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "miccai_society"
+    },
+    "acceptanceRates": {
+      "2017": {
+        "long": {
+          "accepted": 255,
+          "total": 800
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 372,
+          "total": 1068
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 538,
+          "total": 1809
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 542,
+          "total": 1809
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 533,
+          "total": 1631
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ECML-PKDD",
+    "name": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
+    "description": "ECML PKDD has developed from two independent conference series, the European Conference on Machine Learning (ECML) and the European Symposium on Principles of Knowledge Discovery and Data Mining (PKDD).",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ECML-PKDD.png",
+    "website": "https://2022.ecmlpkdd.org",
+    "deadline": "2022-03-28 23:59:59",
+    "date": "September 19-23, 2022",
+    "place": "Grenoble, FRA and Virtual",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "ecmlpkdd"
+    },
+    "acceptanceRates": {
+      "2016": {
+        "long": {
+          "accepted": 100,
+          "total": 353
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 104,
+          "total": 364
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 94,
+          "total": 354
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 130,
+          "total": 700
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 196,
+          "total": 922
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICMI",
+    "name": "International Conference on Multimodal Interaction",
+    "description": "ICMI is the premier international forum for multidisciplinary research on multimodal human-human and human-computer interaction, interfaces, and system development. The conference focuses on theoretical and empirical foundations, component technologies, and combined multimodal processing techniques that define the field of multimodal interaction analysis, interface design, and system development.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ICMI.png",
+    "website": "https://icmi.aiplustech.org",
+    "deadline": "2022-02-15 23:59:59",
+    "date": "April 29-30, 2022",
+    "place": "Istanbul, TUR",
+    "areas": [
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "acmicmi"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 51,
+          "total": 127
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 52,
+          "total": 127
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 55,
+          "total": 144
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 65,
+          "total": 149
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 63,
+          "total": 149
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 50,
+          "total": 138
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 84,
+          "total": 223
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ACCV",
+    "name": "Asian Conference on Computer Vision",
+    "description": "ACCV is a leading biennial international conference mainly sponsored by Asian Federation of Computer Vision. This highly successful series provides a premier forum for researchers, developers, and practitioners to present and discuss new problems, solutions, and technologies in computer vision and related areas.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ACCV.png",
+    "website": "http://accv2020.kyoto/",
+    "deadline": "2020-07-08 23:59:00",
+    "date": "November 30 - December 04, 2020",
+    "place": "Virtual",
+    "social": {
+      "twitter": "accv2020"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 227,
+          "total": 814
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 143,
+          "total": 590
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 269,
+          "total": 979
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 254,
+          "total": 900
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "MIDL",
+    "name": "Medical Imaging with Deep Learning",
+    "description": "Medical Imaging with Deep Learning (MIDL) brings the community of deep learning and medical imaging researchers, clinicians and health-care companies together for in-depth discussion and exchange of ideas.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639565198/conferences/MIDL.jpg",
+    "website": "https://2022.midl.io",
+    "deadline": "2021-12-17 17:00:00",
+    "date": "July 06-08, 2022",
+    "place": "Zürich, CHE",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "midl_conference"
+    },
+    "acceptanceRates": {}
   }
 ]
