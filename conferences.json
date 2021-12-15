@@ -47,7 +47,7 @@
     "description": "CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638599906/conferences/CVPR.png",
     "website": "https://cvpr2022.thecvf.com",
-    "deadline": "2021-11-10 07:59:00",
+    "deadline": "2021-11-10 07:59:59",
     "date": "June 19-24, 2022",
     "place": "New Orleans, USA",
     "areas": [
@@ -113,7 +113,7 @@
     "description": "The International Colour Vision Society (ICVS) is an international group of physiologists, psychologists, physicists, geneticists, optometrists, ophthalmologists and visual scientists who have a research interest in the many aspects of colour vision and colour vision deficiencies.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638599605/conferences/ICVS.png",
     "website": "https://www.icvs2022.org",
-    "deadline": "2022-03-15 11:59:00",
+    "deadline": "2022-03-15 11:59:59",
     "date": "July 01-05, 2022",
     "place": "Heraklion, GRC",
     "areas": [
@@ -130,7 +130,7 @@
     "description": "The BMVA provides a national forum for individuals and organisations involved in machine vision, image processing, and pattern recognition in the United Kingdom.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/BMVC.png",
     "website": "https://www.bmvc2021.com",
-    "deadline": "2021-06-25 23:59:00",
+    "deadline": "2021-06-25 23:59:59",
     "date": "November 22-25, 2021",
     "place": "Virtual",
     "areas": [
@@ -185,12 +185,12 @@
     }
   },
   {
+    "abbreviation": "ICML",
     "name": "International Conference on Machine Learning",
     "description": "The International Conference on Machine Learning is the leading international academic conference in machine learning. Along with NeurIPS and ICLR, it is one of the three primary conferences of high impact in machine learning and artificial intelligence research.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ICML.png",
-    "abbreviation": "ICML",
     "website": "https://icml.cc",
-    "deadline": "2021-01-21 11:59:00",
+    "deadline": "2021-01-21 11:59:59",
     "date": "July 17-23, 2022",
     "place": "Baltimore, USA",
     "areas": [
@@ -250,7 +250,7 @@
     "description": "ACM Multimedia has been the worldwide premier conference and a key world event to display scientific achievements and innovative industrial products in the multimedia field.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/MM.png",
     "website": "https://2022.acmmm.org",
-    "deadline": "2022-02-17 23:59:00",
+    "deadline": "2022-02-17 23:59:59",
     "date": "October 10-14, 2022",
     "place": "Lisbon, PRT",
     "areas": [
@@ -347,12 +347,12 @@
     }
   },
   {
-    "abbreviation": "IJCAI-ECAI",
+    "abbreviation": "IJCAI",
     "name": "International Joint Conferences on Artificial Intelligence Organization",
     "description": "Welcome to IJCAI-ECAI 2022, the 31st International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence, the premier international gathering of researchers in AI!",
-    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638601564/conferences/IJCAI-ECAI.png",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638601564/conferences/IJCAI.png",
     "website": "https://ijcai-22.org",
-    "deadline": "2022-01-07 23:59:00",
+    "deadline": "2022-01-07 23:59:59",
     "date": "July 23-29, 2022",
     "place": "Vienna, AUT",
     "areas": [
@@ -418,7 +418,7 @@
     "description": "The International Conference on Computer Vision Theory and Applications aims at becoming a major point of contact between researchers, engineers and practitioners on the area of computer vision application systems. Five simultaneous tracks will be held, covering all different aspects related to computer vision: Image Formation and Preprocessing; Image and Video Analysis and Understanding; Motion, Tracking and Stereo Vision; and Applications and Services.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1638602273/conferences/VISAPP.png",
     "website": "https://visapp.scitevents.org",
-    "deadline": "2021-10-07 11:59:00",
+    "deadline": "2021-10-07 11:59:59",
     "date": "February 06-08, 2022",
     "place": "Virtual",
     "areas": [
@@ -479,6 +479,432 @@
         "long": {
           "accepted": 111,
           "total": 385
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ECCV",
+    "name": "European Conference on Computer Vision",
+    "description": "The 2020 European Conference on Computer Vision (ECCV 2020) is the top European conference in the image analysis area.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ECCV.png",
+    "website": "https://eccv2020.eu",
+    "deadline": "2022-03-05 23:59:59",
+    "date": "",
+    "place": "Tel Aviv, ISR",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "eccvconf"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 363,
+          "total": 1444
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 415,
+          "total": 1561
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 776,
+          "total": 2439
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 1361,
+          "total": 5025
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICMR",
+    "name": "International Conference on Multimedia Retrieval",
+    "description": "This annual conference, which puts together the long-lasting experiences of the former ACM CIVR (International Conference on Image and Video Retrieval) and ACM MIR (International Conference on Multimedia Information Retrieval) series, was set up in 2011 to illuminate the state of the arts in multimedia (e.g., text, image, video, audio, sensor data, 3D) retrieval.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639549675/conferences/ICMR.png",
+    "website": "http://icmr2022.org/",
+    "deadline": "2022-01-21 11:59:59",
+    "date": "June 27-30, 2022",
+    "place": "Newark, USA",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2015": {
+        "long": {
+          "accepted": 51,
+          "total": 244
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 27,
+          "total": 230
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 33,
+          "total": 178
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 21,
+          "total": 136
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 26,
+          "total": 106
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 19,
+          "total": 149
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICCV",
+    "name": "International Conference on Computer Vision",
+    "description": "ICCV is the premier international computer vision event comprising the main conference and several co-located workshops and tutorials. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639549926/conferences/ICCV.png",
+    "website": "http://iccv2021.thecvf.com/",
+    "deadline": "2021-03-17 23:59:59",
+    "date": "October 11-17, 2021",
+    "place": "Montreal, CAN",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "ICCV_2021"
+    },
+    "acceptanceRates": {
+      "2013": {
+        "long": {
+          "accepted": 454,
+          "total": 1629
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 525,
+          "total": 1698
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 621,
+          "total": 2143
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 1077,
+          "total": 4304
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 1617,
+          "total": 6243
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICIP",
+    "name": "International Conference on Image Processing",
+    "description": "The IEEE ICIP is the world’s largest and most comprehensive technical conference focused on image and video processing and computer vision.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ICIP.png",
+    "website": "2022.ieeeicip.org",
+    "deadline": "2022-02-16 23:59:59",
+    "date": "October, 16-19, 2021",
+    "place": "Bordeaux, FRA",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "ieeeICIP"
+    },
+    "acceptanceRates": {
+      "2019": {
+        "long": {
+          "accepted": 956,
+          "total": 2068
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 0,
+          "total": 0
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 791,
+          "total": 1722
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ACML",
+    "name": "Asian Conference on Machine Learning",
+    "description": "CML 2021 aims to provide a leading international forum for researchers in machine learning and related fields to share their new ideas, progress and achievements.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ACML.png",
+    "website": "http://www.acml-conf.org/2021",
+    "deadline": "2021-06-25 23:59:00",
+    "date": "November 17-19, 2021",
+    "place": "Virtual",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 25,
+          "total": 80
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 28,
+          "total": 96
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 34,
+          "total": 147
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 47,
+          "total": 195
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 64,
+          "total": 265
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 87,
+          "total": 343
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 60,
+          "total": 211
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICPR",
+    "name": "International Conference in Pattern Recognition",
+    "description": "ICPR is the flagship conference of IAPR the International Association of Pattern Recognition and the premiere conference in pattern recognition, covering computer vision, image, sound, speech, sensor patterns processing and machine intelligence.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639550756/conferences/ICPR.png",
+    "website": "https://www.icpr2022.com",
+    "deadline": "2022-01-17 23:59:59",
+    "date": "August 21-25, 2022",
+    "place": "Montreal, CAN",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": ""
+    },
+    "acceptanceRates": {
+      "2016": {
+        "long": {
+          "accepted": 637,
+          "total": 1200
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 652,
+          "total": 1258
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 1411,
+          "total": 3250
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICIAP",
+    "name": "International Conference in Pattern Recognition",
+    "description": "ICIAP is a series of conferences organized every two years by the Italian Association for Research in Computer Vision, Pattern Recognition and Machine Learning (CVPL, ex GIRPR) which is part of the International Association for Pattern Recognition (IAPR). The focus of the conference is on both classic and recent trends in computer vision, pattern recognition and image processing, and covers both theoretical and applicative aspects.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639551178/conferences/ICIAP.png",
+    "website": "https://www.iciap2021.org",
+    "deadline": "2022-01-30 23:59:59",
+    "date": "May 23-27, 2022",
+    "place": "Lecce, ITA and Virtual",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "iciap2021"
+    },
+    "acceptanceRates": {
+      "2017": {
+        "long": {
+          "accepted": 138,
+          "total": 229
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 117,
+          "total": 207
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "AAAI",
+    "name": "Association for the Advancement of Artificial Intelligence",
+    "description": "The purpose of the AAAI conference is to promote research in artificial intelligence (AI) and scientific exchange among AI researchers, practitioners, scientists, and engineers in affiliated disciplines.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/AAAI.png",
+    "website": "https://aaai.org/Conferences/AAAI-22/",
+    "deadline": "2021-10-02 11:59:59",
+    "date": "February 22 - March 01, 2022",
+    "place": "Vancouver, CAN",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "realaaai"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 398,
+          "total": 1406
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 531,
+          "total": 1991
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 549,
+          "total": 2132
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 638,
+          "total": 2590
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 933,
+          "total": 3800
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 1150,
+          "total": 7095
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 1591,
+          "total": 7737
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 1692,
+          "total": 7911
+        }
+      },
+      "2022": {
+        "long": {
+          "accepted": 1349,
+          "total": 9020
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICLR",
+    "name": "International Conference on Learning Representations",
+    "description": "The International Conference on Learning Representations (ICLR) is the premier gathering of professionals dedicated to the advancement of the branch of artificial intelligence called representation learning, but generally referred to as deep learning.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ICLR.png",
+    "website": "http://iclr.cc/",
+    "deadline": "2021-10-05 23:59:59",
+    "date": "April 25-29, 2022",
+    "place": "Virtual",
+    "areas": [
+      "Computer Vision"
+    ],
+    "social": {
+      "twitter": "iclr_conf"
+    },
+    "acceptanceRates": {
+      "2017": {
+        "long": {
+          "accepted": 198,
+          "total": 507
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 314,
+          "total": 981
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 500,
+          "total": 1591
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 687,
+          "total": 2594
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 860,
+          "total": 2997
         }
       }
     }
