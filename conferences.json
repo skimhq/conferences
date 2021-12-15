@@ -194,7 +194,8 @@
     "date": "July 17-23, 2022",
     "place": "Baltimore, USA",
     "areas": [
-      "Computer Vision"
+      "Computer Vision",
+      "Natural Language Processing"
     ],
     "social": {
       "twitter": "icmlconf"
@@ -290,7 +291,8 @@
     "date": "November 26 - December 04, 2022",
     "place": "New Orleans, USA",
     "areas": [
-      "Computer Vision"
+      "Computer Vision",
+      "Natural Language Processing"
     ],
     "social": {
       "twitter": "NeurIPSConf"
@@ -666,10 +668,10 @@
   {
     "abbreviation": "ACML",
     "name": "Asian Conference on Machine Learning",
-    "description": "CML 2021 aims to provide a leading international forum for researchers in machine learning and related fields to share their new ideas, progress and achievements.",
+    "description": "ACML 2021 aims to provide a leading international forum for researchers in machine learning and related fields to share their new ideas, progress and achievements.",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ACML.png",
     "website": "http://www.acml-conf.org/2021",
-    "deadline": "2021-06-25 23:59:00",
+    "deadline": "2021-06-25 23:59:59",
     "date": "November 17-19, 2021",
     "place": "Virtual",
     "areas": [
@@ -799,7 +801,8 @@
     "date": "February 22 - March 01, 2022",
     "place": "Vancouver, CAN",
     "areas": [
-      "Computer Vision"
+      "Computer Vision",
+      "Natural Language Processing"
     ],
     "social": {
       "twitter": "realaaai"
@@ -905,6 +908,658 @@
         "long": {
           "accepted": 860,
           "total": 2997
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "LREC",
+    "name": "International Conference on Language Resources and Evaluation",
+    "description": "The International Conference on Language Resources and Evaluation is organised by ELRA biennially with the support of institutions and organisations involved in HLT. LREC Conferences bring together a large number of people working and interested in HLT.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639557969/conferences/LREC.png",
+    "website": "https://lrec2022.lrec-conf.org/en/",
+    "deadline": "2022-01-10 22:59:59",
+    "date": "June 20-25, 2022",
+    "place": "Marseille, FRA",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "lrec2022"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 745,
+          "total": 1227
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 744,
+          "total": 1250
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 718,
+          "total": 1102
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ACL",
+    "name": "Annual Meeting of the Association for Computational Linguistics",
+    "description": "ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned with computational approaches to natural language.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/ACL.png",
+    "website": "https://www.2022.aclweb.org/",
+    "deadline": "2021-11-15 23:59:59",
+    "date": "May 22-27, 2022",
+    "place": "Dublin, IRE",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "aclmeeting"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 146,
+          "total": 572
+        },
+        "short": {
+          "accepted": 139,
+          "total": 551
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 173,
+          "total": 692
+        },
+        "short": {
+          "accepted": 145,
+          "total": 648
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 231,
+          "total": 825
+        },
+        "short": {
+          "accepted": 97,
+          "total": 463
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 195,
+          "total": 751
+        },
+        "short": {
+          "accepted": 107,
+          "total": 567
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 258,
+          "total": 1018
+        },
+        "short": {
+          "accepted": 126,
+          "total": 526
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 447,
+          "total": 1737
+        },
+        "short": {
+          "accepted": 213,
+          "total": 1168
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 571,
+          "total": 2244
+        },
+        "short": {
+          "accepted": 208,
+          "total": 1185
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 713,
+          "total": 3088
+        },
+        "short": {
+          "accepted": 499,
+          "total": 3088
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "EMNLP",
+    "name": "Empirical Methods in Natural Language Processing",
+    "description": "The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021) invites the submission of long and short papers on substantial, original, and unpublished research in empirical methods for Natural Language Processing. As in recent years, some of the presentations at the conference will be for papers accepted by the Transactions of the ACL (TACL) and Computational Linguistics (CL) journals.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/EMNLP.png",
+    "website": "https://2021.emnlp.org/",
+    "deadline": "2021-05-17 23:59:59",
+    "date": "November 07-11, 2021",
+    "place": "Punta Cana, DOM",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "emnlpmeeting"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 155,
+          "total": 510
+        },
+        "short": {
+          "accepted": 70,
+          "total": 252
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 157,
+          "total": 600
+        },
+        "short": {
+          "accepted": 155,
+          "total": 700
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 177,
+          "total": 687
+        },
+        "short": {
+          "accepted": 87,
+          "total": 400
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 216,
+          "total": 836
+        },
+        "short": {
+          "accepted": 107,
+          "total": 582
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 351,
+          "total": 1376
+        },
+        "short": {
+          "accepted": 198,
+          "total": 855
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 465,
+          "total": 1813
+        },
+        "short": {
+          "accepted": 218,
+          "total": 1063
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 754,
+          "total": 3359
+        },
+        "short": {
+          "accepted": 520,
+          "total": 3359
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 840,
+          "total": 3600
+        },
+        "short": {
+          "accepted": 419,
+          "total": 3600
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "COLING",
+    "name": "International Conference on Computational Linguistics",
+    "description": "COLING conference is held in diverse parts of the globe and attracts participants from both top-ranked research centers and emerging countries. Today, the most important developments in our field are taking place not only in universities and academic research institutes but also in industrial research departments including tech-startups.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639558994/conferences/COLING.png",
+    "website": "https://coling2022.org",
+    "deadline": "2022-05-17 23:59:59",
+    "date": "October 12-17, 2022",
+    "place": "Gyeongju, KOR",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "coling2022"
+    },
+    "acceptanceRates": {
+      "2012": {
+        "long": {
+          "accepted": 311,
+          "total": 1000
+        }
+      },
+      "2014": {
+        "long": {
+          "accepted": 217,
+          "total": 705
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 337,
+          "total": 1039
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 332,
+          "total": 888
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 622,
+          "total": 1862
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "EACL",
+    "name": "Conference of the European Chapter of the Association for Computational Linguistics",
+    "description": "As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/EACL.png",
+    "website": "https://2021.eacl.org/",
+    "deadline": "2020-10-07 23:59:59",
+    "date": "April 21-23, 2021",
+    "place": "Kyiv, UKR and Virtual",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "eaclmeeting"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 78,
+          "total": 317
+        },
+        "short": {
+          "accepted": 46,
+          "total": 199
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 119,
+          "total": 441
+        },
+        "short": {
+          "accepted": 120,
+          "total": 502
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "NAACL",
+    "name": "Annual Conference of the North American Chapter of the Association for Computational Linguistics",
+    "description": "NAACL aims to bring together researchers interested in the design and study of natural language processing technology as well as its applications to new problem areas.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/NAACL.png",
+    "website": "https://2022.naacl.org",
+    "deadline": "2022-01-15 23:59:59",
+    "date": "July 10–15, 2022",
+    "place": "Seattle, USA",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "naaclmeeting"
+    },
+    "acceptanceRates": {
+      "2013": {
+        "long": {
+          "accepted": 88,
+          "total": 293
+        },
+        "short": {
+          "accepted": 51,
+          "total": 162
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 117,
+          "total": 402
+        },
+        "short": {
+          "accepted": 69,
+          "total": 312
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 100,
+          "total": 396
+        },
+        "short": {
+          "accepted": 82,
+          "total": 284
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 207,
+          "total": 647
+        },
+        "short": {
+          "accepted": 125,
+          "total": 425
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 281,
+          "total": 1067
+        },
+        "short": {
+          "accepted": 142,
+          "total": 666
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 350,
+          "total": 1250
+        },
+        "short": {
+          "accepted": 127,
+          "total": 552
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "CoNLL",
+    "name": "The SIGNLL Conference on Computational Natural Language Learning",
+    "description": "CoNLL is a yearly conference organized by SIGNLL (ACL's Special Interest Group on Natural Language Learning). This year, CoNLL will be colocated with EMNLP 2021.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/CoNLL.png",
+    "website": "https://www.conll.org/2021",
+    "deadline": "2021-06-15 11:59:59",
+    "date": "November 06-11, 2021",
+    "place": "Virtual",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "conll_conf"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 20,
+          "total": 83
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 38,
+          "total": 127
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 30,
+          "total": 149
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 50,
+          "total": 271
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 57,
+          "total": 274
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 97,
+          "total": 428
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 53,
+          "total": 227
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "SIGIR",
+    "name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "description": "SIGIR is the premier international forum for the presentation of new research results and for the demonstration of new systems and techniques in information retrieval. The conference consists of five days of full papers, short papers, resource papers, demonstrations, tutorials, workshops, doctoral consortium papers, and perspectives papers focused on research and development in the area of information retrieval, as well as an industry track and social events.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/SIGIR.png",
+    "website": "https://sigir.org/sigir2022/",
+    "deadline": "2021-01-29 11:59:59",
+    "date": "July 11-15, 2022",
+    "place": "Madrid, SPA and Virtual",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "sigirconf"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 82,
+          "total": 387
+        },
+        "short": {
+          "accepted": 104,
+          "total": 263
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 70,
+          "total": 351
+        },
+        "short": {
+          "accepted": 79,
+          "total": 252
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 62,
+          "total": 341
+        },
+        "short": {
+          "accepted": 104,
+          "total": 339
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 78,
+          "total": 362
+        },
+        "short": {
+          "accepted": 121,
+          "total": 398
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 86,
+          "total": 409
+        },
+        "short": {
+          "accepted": 98,
+          "total": 327
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 84,
+          "total": 426
+        },
+        "short": {
+          "accepted": 108,
+          "total": 443
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 147,
+          "total": 555
+        },
+        "short": {
+          "accepted": 153,
+          "total": 507
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 151,
+          "total": 720
+        },
+        "short": {
+          "accepted": 145,
+          "total": 526
+        }
+      }
+    }
+  },
+  {
+    "abbreviation": "ICDM",
+    "name": "International Conference on Data Mining",
+    "description": "The IEEE International Conference on Data Mining (ICDM) has established itself as the world’s premier research conference in data mining. It provides an international forum for presentation of original research results, as well as exchange and dissemination of innovative and practical development experiences. The conference covers all aspects of data mining, including algorithms, software, systems, and applications.",
+    "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639560638/conferences/ICDM.jpg",
+    "website": "https://icdm22.cse.usf.edu/",
+    "deadline": "2022-06-30 23:59:59",
+    "date": "November 30 – December 03, 2022",
+    "place": "Orlando, USA",
+    "areas": [
+      "Natural Language Processing"
+    ],
+    "social": {
+      "twitter": "icdm2021"
+    },
+    "acceptanceRates": {
+      "2014": {
+        "long": {
+          "accepted": 71,
+          "total": 727
+        },
+        "short": {
+          "accepted": 71,
+          "total": 727
+        }
+      },
+      "2015": {
+        "long": {
+          "accepted": 68,
+          "total": 807
+        },
+        "short": {
+          "accepted": 78,
+          "total": 807
+        }
+      },
+      "2016": {
+        "long": {
+          "accepted": 78,
+          "total": 904
+        },
+        "short": {
+          "accepted": 100,
+          "total": 904
+        }
+      },
+      "2017": {
+        "long": {
+          "accepted": 72,
+          "total": 778
+        },
+        "short": {
+          "accepted": 83,
+          "total": 778
+        }
+      },
+      "2018": {
+        "long": {
+          "accepted": 84,
+          "total": 948
+        },
+        "short": {
+          "accepted": 105,
+          "total": 948
+        }
+      },
+      "2019": {
+        "long": {
+          "accepted": 95,
+          "total": 104
+        },
+        "short": {
+          "accepted": 99,
+          "total": 1046
+        }
+      },
+      "2020": {
+        "long": {
+          "accepted": 91,
+          "total": 930
+        },
+        "short": {
+          "accepted": 92,
+          "total": 930
+        }
+      },
+      "2021": {
+        "long": {
+          "accepted": 98,
+          "total": 990
+        },
+        "short": {
+          "accepted": 100,
+          "total": 990
         }
       }
     }
