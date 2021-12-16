@@ -1988,7 +1988,7 @@
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/SDM.png",
     "website": "https://www.siam.org/conferences/cm/conference/sdm22",
     "deadline": "2021-10-13 07:59:59",
-    "date": "April 28 - 30, 2022",
+    "date": "April 28-30, 2022",
     "place": "Alexandria, USA and Virtual",
     "areas": [
       "Natural Language Processing"
@@ -2161,7 +2161,7 @@
     "description": "The Association for Computational Learning (ACL) organizes the Conference on Learning Theory (COLT).",
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639572158/conferences/COLT.png",
     "website": "http://learningtheory.org/colt2022/",
-    "date": "July 2–5, 2022",
+    "date": "July 02–05, 2022",
     "deadline": "2022-02-09 23:59:59",
     "place": "London, UK",
     "areas": [
@@ -2510,7 +2510,7 @@
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1621408000/conferences/AKBC.png",
     "website": "https://www.akbc.ws/2021/",
     "deadline": "2021-06-17 23:59:59",
-    "date": "October 4-8, 2021",
+    "date": "October 04-08, 2021",
     "place": "Virtual",
     "areas": [
       "Miscellaneous"
@@ -2617,7 +2617,7 @@
     "logo": "https://res.cloudinary.com/skimhq/image/upload/v1639574797/conferences/HRI.png",
     "website": "https://humanrobotinteraction.org/2022/",
     "deadline": "2021-10-02 11:59:59",
-    "date": "March 7-10, 2022",
+    "date": "March 07-10, 2022",
     "place": "Virtual",
     "areas": [
       "Robotics"
